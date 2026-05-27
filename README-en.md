@@ -1,4 +1,4 @@
-# Empirical Research Skills (ERS)
+# Auto-Empirical Research Skills (AERS)
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/brycewang-stanford/Empirical-Research-Skills?style=social)](https://github.com/brycewang-stanford/Empirical-Research-Skills)
+[![GitHub stars](https://img.shields.io/github/stars/brycewang-stanford/Auto-Empirical-Research-Skills?style=social)](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Maintained by CoPaper.AI from Stanford REAP](https://img.shields.io/badge/Maintained%20by-CoPaper.AI%20from%20Stanford%20REAP-blue)](https://copaper.ai)
@@ -520,13 +520,13 @@ We especially welcome:
 
 If this list helps you, please give it a Star so more researchers can find it.
 
-[![GitHub stars](https://img.shields.io/github/stars/brycewang-stanford/Empirical-Research-Skills?style=social)](https://github.com/brycewang-stanford/Empirical-Research-Skills)
+[![GitHub stars](https://img.shields.io/github/stars/brycewang-stanford/Auto-Empirical-Research-Skills?style=social)](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills)
 
-<a href="https://www.star-history.com/#brycewang-stanford/Empirical-Research-Skills&Date">
+<a href="https://www.star-history.com/#brycewang-stanford/Auto-Empirical-Research-Skills&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=brycewang-stanford%2FEmpirical-Research-Skills&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=brycewang-stanford%2FEmpirical-Research-Skills&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=brycewang-stanford%2FEmpirical-Research-Skills&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=brycewang-stanford%2FAuto-Empirical-Research-Skills&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=brycewang-stanford%2FAuto-Empirical-Research-Skills&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=brycewang-stanford%2FAuto-Empirical-Research-Skills&type=Date" />
  </picture>
 </a>
 

@@ -43,5 +43,5 @@ If you used a Skill to complete empirical research, we'd love to hear about it i
 
 ## Contact
 
-- GitHub Issues: [Open an issue](https://github.com/brycewang-stanford/Empirical-Research-Skills/issues)
+- GitHub Issues: [Open an issue](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills/issues)
 - Maintained by: [CoPaper.AI](https://copaper.ai)

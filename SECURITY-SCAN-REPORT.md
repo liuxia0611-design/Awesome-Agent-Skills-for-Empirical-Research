@@ -1,7 +1,7 @@
 # Skills 安全扫描报告（00 系列 + 01–48）
 
 **扫描日期**：2026-04-28（首轮 01–47） / 2026-04-28（二轮：4 个 `00-*` + 48）
-**精选定位**：本仓库（Empirical-Research-Skills, ERS）从 GitHub 上 **119 个仓库 / 23,000+ Agent Skills** 中精选收录 **52 个**实证研究 Skill。本扫描的对象就是这 52 个精选 Skill 的全部内容。
+**精选定位**：本仓库（Auto-Empirical-Research-Skills, AERS）从 GitHub 上 **119 个仓库 / 23,000+ Agent Skills** 中精选收录 **52 个**实证研究 Skill。本扫描的对象就是这 52 个精选 Skill 的全部内容。
 **扫描范围**：`skills/00-*`、`skills/00.1-*`、`skills/00.2-*`、`skills/00.3-*`、`skills/01-*` 到 `skills/48-*`，共 **52 个 skill 目录**，约 2,940+ 文件
 **扫描人**：Claude（Opus 4.7，1M context）
 **结论先行**：**未发现恶意 prompt、病毒、木马或其他恶意内容。52/52 全部 CLEAN，零 FLAGGED。**
