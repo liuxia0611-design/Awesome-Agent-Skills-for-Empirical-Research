@@ -38,7 +38,7 @@
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research.git /tmp/awesome-skills
+git clone https://github.com/brycewang-stanford/Empirical-Research-Skills.git /tmp/awesome-skills
 cp -r /tmp/awesome-skills/skills/48-copaper-ai-chinese-de-aigc ~/.claude/skills/chinese-de-aigc
 ```
 
@@ -60,7 +60,7 @@ cp -r skills/48-copaper-ai-chinese-de-aigc .claude/skills/chinese-de-aigc
 
 ## 与其他 Skill 配合
 
-本 Skill 是 Awesome Agent Skills for Empirical Research 仓库的第 48 号 Skill。推荐组合使用：
+本 Skill 是 Empirical Research Skills (ERS) 仓库的第 48 号 Skill。推荐组合使用：
 
 | 场景 | 推荐组合 |
 |------|---------|

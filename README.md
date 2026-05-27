@@ -1,4 +1,4 @@
-# Awesome Agent Skills for Empirical Research
+# Empirical Research Skills (ERS)
 
 <div align="center">
 
@@ -27,6 +27,7 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/brycewang-stanford/Empirical-Research-Skills?style=social)](https://github.com/brycewang-stanford/Empirical-Research-Skills)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Maintained by CoPaper.AI from Stanford REAP](https://img.shields.io/badge/Maintained%20by-CoPaper.AI%20from%20Stanford%20REAP-blue)](https://copaper.ai)
@@ -78,7 +79,7 @@
 <details>
 <summary><b>2026-05-04：🤝 首个社区 PR 收录 —— humanize-chinese vendor 进 skills/49</b></summary>
 
-- **🇨🇳 [skills/49-voidborne-d-humanize-chinese](skills/49-voidborne-d-humanize-chinese/)**：由 [@voidborne-d](https://github.com/voidborne-d) 通过 [PR #5](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research/pull/5) 贡献，按 `LICENSE + README-original.md + SKILL.md` 三件套 vendor 进仓库。**同时提供 SKILL.md 和独立 Python CLI**：17 类中文 AI 模式检测 + 7 风格改写器（academic / novel / blog / 小红书 / 微信 等）+ LR ensemble 程序化打分，长度 ≥1500 字自动切长篇 LR，HC3 100 短问答基准 95% 正确分离。**License: MIT (Non-Commercial)** —— 非标准修改版 MIT，明确禁商用（SaaS / 付费 API / 商业产品集成），下游使用请注意。
+- **🇨🇳 [skills/49-voidborne-d-humanize-chinese](skills/49-voidborne-d-humanize-chinese/)**：由 [@voidborne-d](https://github.com/voidborne-d) 通过 [PR #5](https://github.com/brycewang-stanford/Empirical-Research-Skills/pull/5) 贡献，按 `LICENSE + README-original.md + SKILL.md` 三件套 vendor 进仓库。**同时提供 SKILL.md 和独立 Python CLI**：17 类中文 AI 模式检测 + 7 风格改写器（academic / novel / blog / 小红书 / 微信 等）+ LR ensemble 程序化打分，长度 ≥1500 字自动切长篇 LR，HC3 100 短问答基准 95% 正确分离。**License: MIT (Non-Commercial)** —— 非标准修改版 MIT，明确禁商用（SaaS / 付费 API / 商业产品集成），下游使用请注意。
 - **🤝 欢迎社区 PR**：本仓库长期开放收录有价值的实证研究类 Skill / Agent / 工具。无论是你自己开发的还是发现的好工具，欢迎提 PR —— 我们会**继续保持收录**，认真审查每一条贡献，让这份清单成为社区共建的资产。流程参见 [Contributing](#contributing)。
 
 </details>
@@ -528,6 +529,16 @@ Skill 就是解决这个问题的：它是给 AI 的**方法论操作手册**。
 
 如果这个列表对你有帮助，请给一个 Star 让更多研究者看到。
 
+[![GitHub stars](https://img.shields.io/github/stars/brycewang-stanford/Empirical-Research-Skills?style=social)](https://github.com/brycewang-stanford/Empirical-Research-Skills)
+
+<a href="https://www.star-history.com/#brycewang-stanford/Empirical-Research-Skills&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=brycewang-stanford%2FEmpirical-Research-Skills&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=brycewang-stanford%2FEmpirical-Research-Skills&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=brycewang-stanford%2FEmpirical-Research-Skills&type=Date" />
+ </picture>
+</a>
+
 ---
 
 <div align="center">
@@ -572,15 +583,3 @@ Skill 就是解决这个问题的：它是给 AI 的**方法论操作手册**。
 由 <a href="https://copaper.ai"><strong>CoPaper.AI</strong></a> 团队维护，孵化于 <a href="https://sccei.fsi.stanford.edu/reap"><strong>Stanford REAP / SCCEI</strong></a>（中国经济与制度研究中心） | 实证研究 AI 助手
 
 </div>
-
----
-
-## ⭐ Star History
-
-<a href="https://www.star-history.com/#brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research&type=Date" />
- </picture>
-</a>
