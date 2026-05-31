@@ -272,7 +272,7 @@ def render_markdown(payload: dict[str, object]) -> str:
                 source=(
                     f"[source]({collection['source_url']})"
                     if collection.get("source_url")
-                    else ""
+                    else "UNKNOWN"
                 ),
                 name=markdown_escape(primary["name"]),
                 skill_path=primary["path"],

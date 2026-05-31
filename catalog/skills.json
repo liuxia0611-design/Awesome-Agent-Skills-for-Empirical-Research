@@ -370,8 +370,8 @@
         "path": "skills/18-jusi-aalto-stata-accounting-research/SKILL.md"
       },
       "skill_count": 1,
-      "source_confidence": "low",
-      "source_url": "https://github.com/jusi/aalto-stata-accounting-research",
+      "source_confidence": "unresolved",
+      "source_url": null,
       "sync": "manual vendor snapshot"
     },
     {
@@ -523,8 +523,8 @@
         "path": "skills/29-quarcs-lab-project20XXy/dot-claude/skills/abstract/SKILL.md"
       },
       "skill_count": 24,
-      "source_confidence": "low",
-      "source_url": "https://github.com/quarcs/lab-project20XXy",
+      "source_confidence": "unresolved",
+      "source_url": null,
       "sync": "manual vendor snapshot"
     },
     {
@@ -642,8 +642,8 @@
         "path": "skills/38-peternka-academic-proofreader/SKILL.md"
       },
       "skill_count": 1,
-      "source_confidence": "low",
-      "source_url": "https://github.com/peternka/academic-proofreader",
+      "source_confidence": "unresolved",
+      "source_url": null,
       "sync": "manual vendor snapshot"
     },
     {
@@ -829,8 +829,8 @@
         "path": "skills/49-voidborne-d-humanize-chinese/SKILL.md"
       },
       "skill_count": 1,
-      "source_confidence": "medium",
-      "source_url": "https://github.com/voidborne-d/humanize-chinese",
+      "source_confidence": "unresolved",
+      "source_url": null,
       "sync": "manual vendor snapshot"
     },
     {
