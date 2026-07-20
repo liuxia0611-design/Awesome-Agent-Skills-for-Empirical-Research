@@ -1,6 +1,6 @@
 ---
 name: aer-consistency
-description: Use when auditing a finished or near-finished AER, AER:Insights, or AEJ manuscript for internal consistency: headline numbers across abstract, introduction, results, and tables; sample sizes; log-point and percentage-point conversions; cross-references; and in-text-citation/bibliography matching. Apply after the body and exhibits exist, before aer-referee-sim and aer-submission.
+description: "Use when auditing a finished or near-finished AER, AER:Insights, or AEJ manuscript for internal consistency: headline numbers across abstract, introduction, results, and tables; sample sizes; log-point and percentage-point conversions; cross-references; and in-text-citation/bibliography matching. Apply after the body and exhibits exist, before aer-referee-sim and aer-submission."
 ---
 
 # AER Consistency
@@ -196,6 +196,11 @@ Fix-and-rerun until all PASS. The report travels with the handoff so
   "suggestive"
 
 ## Repository Resources
+
+Bundled with the installed skill, no repository checkout needed --- read it
+before the repo resources below:
+
+- `references/audit-checklist.md` --- manual audit passes plus what the bundled script does and does not catch
 
 When working from the AER-skills repository or plugin bundle, load only the
 relevant resource:

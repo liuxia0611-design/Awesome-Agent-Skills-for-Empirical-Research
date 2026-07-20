@@ -9,7 +9,7 @@ Paste this snapshot into the GitHub release body and add a hand-written
 ## Catalog
 
 - Top-level collections: **69**
-- `SKILL.md` files: **1150**
+- `SKILL.md` files: **1151**
 - Cataloged agent tools: **334** ([`tools/CATALOG.md`](../tools/CATALOG.md))
 
 ## Methodological rigor
